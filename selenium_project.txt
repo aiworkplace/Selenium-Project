@@ -32,21 +32,19 @@ hare, i use a invalid proxy. this proxy use just for check.
 
 
 ## part-6: how can you reduce the speed of entering characters selenium python
-
 You can send you kyes character wise.
 
+## part-7: how to use excel for getting data in selenium.
+
+1. pip install xlrd
+2. pip install pandas
+3. Open the "data.xlsx" file & input your data!!
+
+## Final Project : Gmail Bot
 
 
 
-
-
-
-
-
-
-
-
-
+Source Code : https://github.com/ArvanWorkshop/Selenium-Project.git
 
 
 
