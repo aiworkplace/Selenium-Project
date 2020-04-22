@@ -13,4 +13,5 @@ db.sqlite3
 venv/
 env/
 .idea
+geckodriver.log
 #templates

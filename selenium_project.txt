@@ -1,4 +1,12 @@
-				Selenium with Python
+			Selenium with Python
+
+# Selenium with Python - Basic
+here you undrestood how selenium code work in a website.
+let's start,
+
+* pip install selenium
+
+
 
 
 ## Part-1: Run selenium in multiple Browser
@@ -45,6 +53,64 @@ You can send you kyes character wise.
 
 
 Source Code : https://github.com/ArvanWorkshop/Selenium-Project.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
