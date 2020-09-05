@@ -1,59 +1,64 @@
-			Selenium with Python
+		##########################			
+		## Selenium With Python ##
+		##########################
 
-# Selenium with Python - Basic
-here you undrestood how selenium code work in a website.
-let's start,
 
+## part-1: Selenium with Python - Basic
+here you can undrestood how selenium work in a website.
 * pip install selenium
 
 
-
-
-## Part-1: Run selenium in multiple Browser
-
+## Part-2: Run selenium in multiple Browser
 1. pip install selenium
 2. chromedriver.exe, geckodriver.exe, operadriver.exe & multibrowser.py are same folder 
 3. run the multiBrowser.py
 
 
-## Part-2: Using Selenium in Checkout form
-
+## Part-3: Using Selenium in Checkout form
 1. How to find element by id
 2. How to find element by name
 3. How to find element by xpath
 4. How to select element
 
 
-## Part-3: How to change User Agent using selenium 
+## Part-4: How to change User Agent using selenium 
 hare, you change your User Agent.
 
 
-## Part-4: Selenium Set HTTP Proxy Firefox Profile
-hare, i use a invalid proxy. this proxy use just for check. 
+## Part-5: Selenium Set SOCKS5 Proxy in Firefox Profile
 
 
-## part-5: How to connect selenium to an existing browser
+## Part-6: Selenium Set HTTPs Proxy in Firefox Profile
 
+
+## part-7: how can you reduce the speed of entering characters selenium python
+You can send you kyes character wise.
+
+
+## part8: How to connect selenium to an existing browser
 1. find chrome.exe path & add this path on you system. 
 2. Open the "Command Prompt"
 3. chrome.exe --remote-debugging-port=9250 --user-data-dir="C:\chromedriver"
 
 
-## part-6: how can you reduce the speed of entering characters selenium python
-You can send you kyes character wise.
-
-## part-7: how to use excel for getting data in selenium.
-
+## part-9: how to use excel for getting data in selenium.
 1. pip install xlrd
 2. pip install pandas
 3. Open the "data.xlsx" file & input your data!!
 
-## Final Project : Gmail Bot
-
-
 
 Source Code : https://github.com/ArvanWorkshop/Selenium-Project.git
 
+
+## Final Project : Gmail Bot (premium)
+
+
+
+Contact Me -
+My website : https://arvanworkshop.herokuapp.com
+Instagram  : https://www.instagram.com/arvanbishwas
+E-mail     : arvanwrokshp@gmail.com
+Discord    : Arvanworkshop#1540
 
 
 
