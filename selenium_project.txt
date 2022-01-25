@@ -47,7 +47,6 @@ You can send you kyes character wise.
 3. Open the "data.xlsx" file & input your data!!
 
 
-Source Code : https://github.com/ArvanWorkshop/Selenium-Project.git
 
 
 ## Final Project : Gmail Bot (premium)
@@ -55,10 +54,7 @@ Source Code : https://github.com/ArvanWorkshop/Selenium-Project.git
 
 
 Contact Me -
-My website : https://arvanworkshop.herokuapp.com
-Instagram  : https://www.instagram.com/arvanbishwas
-E-mail     : arvanwrokshp@gmail.com
-Discord    : Arvanworkshop#1540
+aiworkplace701@gmail.com
 
 
 
