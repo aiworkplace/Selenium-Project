@@ -16,7 +16,7 @@ driver.find_element_by_id('gb_70').click()
 
 time.sleep(4)
 
-driver.find_element_by_name('identifier').send_keys('arvanbishwas@gmail.com')
+driver.find_element_by_name('identifier').send_keys('Ai Workplace')
 # here driver.find_element_by_name mean - you find your element by name
 # send_keys .. mean(hare you write any key) those key are send your element plase
 
