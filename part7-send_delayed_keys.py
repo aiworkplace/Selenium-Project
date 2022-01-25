@@ -15,5 +15,5 @@ driver.get(url)
 
 
 kyes = driver.find_element_by_name('q')
-send_delayed_keys(kyes, 'ArvanWorkhop - youtube', 0.6)
+send_delayed_keys(kyes, 'Ai Workplace - youtube', 0.6)
 driver.find_element_by_name("q").send_keys(Keys.ENTER)
